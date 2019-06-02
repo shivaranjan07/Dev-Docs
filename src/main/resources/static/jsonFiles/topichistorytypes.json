@@ -1,0 +1,147 @@
+[
+  {
+    "Id": 1,
+    "Name": "InitialTitle",
+    "Description": "The first title a topic was posted with."
+  },
+  {
+    "Id": 2,
+    "Name": "InitialSyntax",
+    "Description": "The first syntax markdown a topic was posted with."
+  },
+  {
+    "Id": 3,
+    "Name": "InitialParameters",
+    "Description": "The first parameters markdown a topic was posted with."
+  },
+  {
+    "Id": 4,
+    "Name": "InitialRemarks",
+    "Description": "The first remarks markdown a topic was posted with."
+  },
+  {
+    "Id": 5,
+    "Name": "InitialVersions",
+    "Description": "The first versions markdown a hello world topic was posted with."
+  },
+  {
+    "Id": 6,
+    "Name": "InitialDenormalizedVersions",
+    "Description": "The first denormalized versions a non-hello world topic was posted with."
+  },
+  {
+    "Id": 7,
+    "Name": "EditTitle",
+    "Description": "Edit to the title of a topic, made after the topic was posted."
+  },
+  {
+    "Id": 8,
+    "Name": "EditSyntax",
+    "Description": "Edit to the syntax of a topic, made after the topic was posted."
+  },
+  {
+    "Id": 9,
+    "Name": "EditParameters",
+    "Description": "Edit to the parameters of a topic, made after the topic was posted."
+  },
+  {
+    "Id": 10,
+    "Name": "EditRemarks",
+    "Description": "Edit to the remarks of a topic, made after the topic was posted."
+  },
+  {
+    "Id": 11,
+    "Name": "EditVersions",
+    "Description": "Edit to the versions markdown a hello world topic, made after the topic was posted."
+  },
+  {
+    "Id": 12,
+    "Name": "EditDenormalizedVersions",
+    "Description": "Edit to the denormalized versions on a non-hello world topic, made the topic was posted."
+  },
+  {
+    "Id": 13,
+    "Name": "InitialExampleTitle",
+    "Description": "The first title an example was posted with."
+  },
+  {
+    "Id": 14,
+    "Name": "InitialExampleBody",
+    "Description": "The first body an example was posted with."
+  },
+  {
+    "Id": 15,
+    "Name": "EditExampleTitle",
+    "Description": "Edit to the title of an example, made after the example was posted."
+  },
+  {
+    "Id": 16,
+    "Name": "EditExampleBody",
+    "Description": "Edit to the body of an example, made after the example was posted."
+  },
+  {
+    "Id": 17,
+    "Name": "DeleteTopic",
+    "Description": "Topic was deleted"
+  },
+  {
+    "Id": 18,
+    "Name": "DeleteExample",
+    "Description": "Example was deleted"
+  },
+  {
+    "Id": 19,
+    "Name": "ExampleMovedOut",
+    "Description": "Example was moved out of a topic"
+  },
+  {
+    "Id": 20,
+    "Name": "ExampleMovedIn",
+    "Description": "Example was moved into a topic"
+  },
+  {
+    "Id": 21,
+    "Name": "ExamplePinned",
+    "Description": "Example because the \"pinned\" example for a Topic"
+  },
+  {
+    "Id": 22,
+    "Name": "ExampleUnpinned",
+    "Description": "Example was removed as the \"pinned\" example for a Topic"
+  },
+  {
+    "Id": 23,
+    "Name": "UndeleteTopic",
+    "Description": "Topic was undeleted"
+  },
+  {
+    "Id": 24,
+    "Name": "UndeleteExample",
+    "Description": "Example was undeleted"
+  },
+  {
+    "Id": 25,
+    "Name": "ContributorDisassociated",
+    "Description": "User was removed from topic history as part of disassociating"
+  },
+  {
+    "Id": 26,
+    "Name": "Initial Topic Introduction",
+    "Description": "The first introduction a topic as created with."
+  },
+  {
+    "Id": 27,
+    "Name": "Edit Topic Introduction",
+    "Description": "An edit to a topic's introduction."
+  },
+  {
+    "Id": 28,
+    "Name": "TopicMovedOut",
+    "Description": "Topic was moved out of a DocTag"
+  },
+  {
+    "Id": 29,
+    "Name": "TopicMovedIn",
+    "Description": "Topic was moved into a DocTag"
+  }
+]

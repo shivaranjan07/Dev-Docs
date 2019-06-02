@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Upgrade",
+    "Description": "Contribution is ending because the user is now a Major contributor"
+  },
+  {
+    "Id": 2,
+    "Name": "Rollback",
+    "Description": "Contribution is ending because the user's prior contributions have been rolled back"
+  },
+  {
+    "Id": 3,
+    "Name": "ExampleMoved",
+    "Description": "Contribution is ended because an example has been moved off a topic"
+  },
+  {
+    "Id": 4,
+    "Name": "ExampleDeleted",
+    "Description": "Contribution is ended, on a topic, because an example has been deleted"
+  }
+]
